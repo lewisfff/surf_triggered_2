@@ -1,0 +1,3656 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 53
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 105925, actual size 105711
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 53
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 105925, actual size 105711
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 46 visible clusters (0.00%)
+Total clusters visible: 999618
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_fake_whitert" not found.
+Can't load skybox file skybox/sky_fake_white to build the default cubemap!
+Can't load skybox file skybox/sky_fake_white to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 53
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 995 portalclusters
+2044 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 989709
+Average clusters visible: 994
+Building PAS...
+Average clusters audible: 995
+visdatasize:256714  compressed from 254720
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12938 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 53
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 995 portalclusters
+2044 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 989709
+Average clusters visible: 994
+Building PAS...
+Average clusters audible: 995
+visdatasize:256714  compressed from 254720
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13098 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 56
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 995 portalclusters
+2044 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 989709
+Average clusters visible: 994
+Building PAS...
+Average clusters audible: 995
+visdatasize:256714  compressed from 254720
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13098 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 51
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 994 portalclusters
+2040 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 987720
+Average clusters visible: 993
+Building PAS...
+Average clusters audible: 994
+visdatasize:256456  compressed from 254464
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13818 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 58
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1002 portalclusters
+2063 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1003680
+Average clusters visible: 1001
+Building PAS...
+Average clusters audible: 1002
+visdatasize:260524  compressed from 256512
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13818 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 58
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 999676
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13818 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 58
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1002 portalclusters
+2063 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1003680
+Average clusters visible: 1001
+Building PAS...
+Average clusters audible: 1002
+visdatasize:260524  compressed from 256512
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (13818 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 65 texinfos to 58
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1002 portalclusters
+2063 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1003680
+Average clusters visible: 1001
+Building PAS...
+Average clusters audible: 1002
+visdatasize:260524  compressed from 256512
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15258 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 71 texinfos to 64
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1026 portalclusters
+2174 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 53 visible clusters (0.01%)
+Total clusters visible: 1052309
+Average clusters visible: 1025
+Building PAS...
+Average clusters audible: 1026
+visdatasize:272920  compressed from 279072
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15258 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 71 texinfos to 64
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1024 portalclusters
+2165 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 53 visible clusters (0.01%)
+Total clusters visible: 1048209
+Average clusters visible: 1023
+Building PAS...
+Average clusters audible: 1024
+visdatasize:270340  compressed from 262144
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19796 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 81 texinfos to 76
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 998 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 995704
+Average clusters visible: 997
+Building PAS...
+Average clusters audible: 998
+visdatasize:257488  compressed from 255488
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18060 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 81 texinfos to 66
+Reduced 13 texdatas to 13 (339 bytes to 339)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 998 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 995704
+Average clusters visible: 997
+Building PAS...
+Average clusters audible: 998
+visdatasize:257488  compressed from 255488
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19006 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 87 texinfos to 67
+Reduced 14 texdatas to 14 (360 bytes to 360)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1002 portalclusters
+2078 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1003704
+Average clusters visible: 1001
+Building PAS...
+Average clusters audible: 1002
+visdatasize:260524  compressed from 256512
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 69
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2073 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 999700
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 69
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2073 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 999700
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19217 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 69
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2073 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 999700
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20327 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 106 texinfos to 72
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1000 portalclusters
+2073 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 999700
+Average clusters visible: 999
+Building PAS...
+Average clusters audible: 1000
+visdatasize:258004  compressed from 256000
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21345 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 107 texinfos to 81
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1022 portalclusters
+2161 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1044146
+Average clusters visible: 1021
+Building PAS...
+Average clusters audible: 1022
+visdatasize:269812  compressed from 261632
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23831 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 126 texinfos to 82
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1002 portalclusters
+2078 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1003694
+Average clusters visible: 1001
+Building PAS...
+Average clusters audible: 1002
+visdatasize:260524  compressed from 256512
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24095 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 122 texinfos to 82
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1010 portalclusters
+2122 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1019788
+Average clusters visible: 1009
+Building PAS...
+Average clusters audible: 1010
+visdatasize:264624  compressed from 258560
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24991 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 122 texinfos to 82
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1012 portalclusters
+2128 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.00%)
+Total clusters visible: 1023798
+Average clusters visible: 1011
+Building PAS...
+Average clusters audible: 1012
+visdatasize:265148  compressed from 259072
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25975 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 124 texinfos to 84
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1030 portalclusters
+2193 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69 visible clusters (0.01%)
+Total clusters visible: 1060455
+Average clusters visible: 1029
+Building PAS...
+Average clusters audible: 1030
+visdatasize:273985  compressed from 280160
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (25975 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 124 texinfos to 84
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1034 portalclusters
+2205 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 62 visible clusters (0.01%)
+Total clusters visible: 1068734
+Average clusters visible: 1033
+Building PAS...
+Average clusters audible: 1034
+visdatasize:277117  compressed from 281248
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26727 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 132 texinfos to 92
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1038 portalclusters
+2223 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 56 visible clusters (0.01%)
+Total clusters visible: 1077014
+Average clusters visible: 1037
+Building PAS...
+Average clusters audible: 1038
+visdatasize:278188  compressed from 282336
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28935 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 132 texinfos to 92
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1053 portalclusters
+2262 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 225 visible clusters (0.02%)
+Total clusters visible: 1106560
+Average clusters visible: 1050
+Building PAS...
+Average clusters audible: 1053
+visdatasize:286366  compressed from 286416
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28935 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 132 texinfos to 92
+Reduced 15 texdatas to 15 (379 bytes to 379)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1055 portalclusters
+2274 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.02%)
+Total clusters visible: 1112124
+Average clusters visible: 1054
+Building PAS...
+Average clusters audible: 1055
+visdatasize:286970  compressed from 286960
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 137 texinfos to 96
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1065 portalclusters
+2295 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105 visible clusters (0.01%)
+Total clusters visible: 1132658
+Average clusters visible: 1063
+Building PAS...
+Average clusters audible: 1065
+visdatasize:293947  compressed from 289680
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42703 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 149 texinfos to 102
+Reduced 18 texdatas to 17 (531 bytes to 453)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 164783, actual size 164167
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1065 portalclusters
+2293 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 131 visible clusters (0.01%)
+Total clusters visible: 1132614
+Average clusters visible: 1063
+Building PAS...
+Average clusters audible: 1065
+visdatasize:293945  compressed from 289680
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42703 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 149 texinfos to 102
+Reduced 18 texdatas to 17 (505 bytes to 440)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 164744, actual size 164128
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1065 portalclusters
+2293 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 131 visible clusters (0.01%)
+Total clusters visible: 1132614
+Average clusters visible: 1063
+Building PAS...
+Average clusters audible: 1065
+visdatasize:293945  compressed from 289680
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42703 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 144 texinfos to 99
+Reduced 18 texdatas to 17 (523 bytes to 449)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 164771, actual size 164155
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1065 portalclusters
+2293 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 131 visible clusters (0.01%)
+Total clusters visible: 1132614
+Average clusters visible: 1063
+Building PAS...
+Average clusters audible: 1065
+visdatasize:293945  compressed from 289680
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42895 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 138 texinfos to 97
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1064 portalclusters
+2295 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 104 visible clusters (0.01%)
+Total clusters visible: 1130430
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1064
+visdatasize:291534  compressed from 289408
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46351 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 140 texinfos to 99
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1106 portalclusters
+2377 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2634 visible clusters (0.23%)
+Total clusters visible: 1122586
+Average clusters visible: 1014
+Building PAS...
+Average clusters audible: 1097
+visdatasize:310926  compressed from 318528
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70716 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 153 texinfos to 89
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1009 portalclusters
+2096 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1017760
+Average clusters visible: 1008
+Building PAS...
+Average clusters audible: 1009
+visdatasize:264362  compressed from 258304
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (72889 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 166 texinfos to 94
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1009 portalclusters
+2096 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1017760
+Average clusters visible: 1008
+Building PAS...
+Average clusters audible: 1009
+visdatasize:264362  compressed from 258304
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65189 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 128 texinfos to 69
+Reduced 12 texdatas to 12 (284 bytes to 284)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+ 933 portalclusters
+1867 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 870454
+Average clusters visible: 932
+Building PAS...
+Average clusters audible: 933
+visdatasize:225790  compressed from 223920
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70505 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 213 texinfos to 121
+Reduced 17 texdatas to 17 (440 bytes to 440)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1009 portalclusters
+2096 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1017760
+Average clusters visible: 1008
+Building PAS...
+Average clusters audible: 1009
+visdatasize:264362  compressed from 258304
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70503 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 213 texinfos to 121
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1009 portalclusters
+2096 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1017760
+Average clusters visible: 1008
+Building PAS...
+Average clusters audible: 1009
+visdatasize:264362  compressed from 258304
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 150
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1094 portalclusters
+2379 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 67 visible clusters (0.01%)
+Total clusters visible: 1196441
+Average clusters visible: 1093
+Building PAS...
+Average clusters audible: 1094
+visdatasize:308512  compressed from 315072
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (80983 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 176
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1094 portalclusters
+2379 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 67 visible clusters (0.01%)
+Total clusters visible: 1196441
+Average clusters visible: 1093
+Building PAS...
+Average clusters audible: 1094
+visdatasize:308512  compressed from 315072
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (80951 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 265 texinfos to 173
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1095 portalclusters
+2374 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 60 visible clusters (0.01%)
+Total clusters visible: 1198612
+Average clusters visible: 1094
+Building PAS...
+Average clusters audible: 1095
+visdatasize:308794  compressed from 315360
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (80935 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 176
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1092 portalclusters
+2379 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 49 visible clusters (0.00%)
+Total clusters visible: 1192080
+Average clusters visible: 1091
+Building PAS...
+Average clusters audible: 1092
+visdatasize:307948  compressed from 314496
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (80919 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 176
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1093 portalclusters
+2385 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 65 visible clusters (0.01%)
+Total clusters visible: 1194235
+Average clusters visible: 1092
+Building PAS...
+Average clusters audible: 1093
+visdatasize:308230  compressed from 314784
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (79495 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 261 texinfos to 169
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1085 portalclusters
+2352 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 1176866
+Average clusters visible: 1084
+Building PAS...
+Average clusters audible: 1085
+visdatasize:303804  compressed from 295120
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (77943 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 251 texinfos to 159
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1070 portalclusters
+2310 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 50 visible clusters (0.00%)
+Total clusters visible: 1144539
+Average clusters visible: 1069
+Building PAS...
+Average clusters audible: 1070
+visdatasize:295324  compressed from 291040
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76407 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 149
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1056 portalclusters
+2265 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1114803
+Average clusters visible: 1055
+Building PAS...
+Average clusters audible: 1056
+visdatasize:287236  compressed from 287232
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76391 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 149
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1058 portalclusters
+2275 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1119024
+Average clusters visible: 1057
+Building PAS...
+Average clusters audible: 1058
+visdatasize:289896  compressed from 287776
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76439 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 149
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1057 portalclusters
+2272 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 48 visible clusters (0.00%)
+Total clusters visible: 1116908
+Average clusters visible: 1056
+Building PAS...
+Average clusters audible: 1057
+visdatasize:289622  compressed from 287504
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 194 texinfos to 136
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1157 portalclusters
+2571 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3706 visible clusters (0.30%)
+Total clusters visible: 1246252
+Average clusters visible: 1077
+Building PAS...
+Average clusters audible: 1154
+visdatasize:342055  compressed from 351728
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 194 texinfos to 136
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1157 portalclusters
+2571 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3757 visible clusters (0.30%)
+Total clusters visible: 1246157
+Average clusters visible: 1077
+Building PAS...
+Average clusters audible: 1154
+visdatasize:342055  compressed from 351728
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 194 texinfos to 136
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1157 portalclusters
+2571 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3763 visible clusters (0.30%)
+Total clusters visible: 1246177
+Average clusters visible: 1077
+Building PAS...
+Average clusters audible: 1154
+visdatasize:342055  compressed from 351728
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 194 texinfos to 136
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1157 portalclusters
+2571 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3762 visible clusters (0.30%)
+Total clusters visible: 1246176
+Average clusters visible: 1077
+Building PAS...
+Average clusters audible: 1154
+visdatasize:342055  compressed from 351728
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 197 texinfos to 139
+Reduced 16 texdatas to 16 (407 bytes to 407)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1157 portalclusters
+2571 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3762 visible clusters (0.30%)
+Total clusters visible: 1246176
+Average clusters visible: 1077
+Building PAS...
+Average clusters audible: 1154
+visdatasize:342055  compressed from 351728
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54379 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 205 texinfos to 144
+Reduced 17 texdatas to 17 (436 bytes to 436)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1161 portalclusters
+2583 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3780 visible clusters (0.30%)
+Total clusters visible: 1246502
+Average clusters visible: 1073
+Building PAS...
+Average clusters audible: 1154
+visdatasize:345464  compressed from 352944
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54379 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 205 texinfos to 144
+Reduced 17 texdatas to 17 (436 bytes to 436)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1161 portalclusters
+2583 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3780 visible clusters (0.30%)
+Total clusters visible: 1246502
+Average clusters visible: 1073
+Building PAS...
+Average clusters audible: 1154
+visdatasize:345464  compressed from 352944
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54347 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 206 texinfos to 144
+Reduced 17 texdatas to 17 (436 bytes to 436)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1160 portalclusters
+2572 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 5921 visible clusters (0.48%)
+Total clusters visible: 1243014
+Average clusters visible: 1071
+Building PAS...
+Average clusters audible: 1142
+visdatasize:341917  compressed from 352640
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 217 texinfos to 146
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1173 portalclusters
+2626 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1415 visible clusters (0.11%)
+Total clusters visible: 1277911
+Average clusters visible: 1089
+Building PAS...
+Average clusters audible: 1173
+visdatasize:352681  compressed from 356592
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 223 texinfos to 152
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1183 portalclusters
+2681 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1400 visible clusters (0.11%)
+Total clusters visible: 1288384
+Average clusters visible: 1089
+Building PAS...
+Average clusters audible: 1183
+visdatasize:356956  compressed from 359632
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56867 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 223 texinfos to 151
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1191 portalclusters
+2695 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1676 visible clusters (0.13%)
+Total clusters visible: 1297628
+Average clusters visible: 1089
+Building PAS...
+Average clusters audible: 1191
+visdatasize:361513  compressed from 362064
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56867 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 222 texinfos to 150
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1191 portalclusters
+2695 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1664 visible clusters (0.13%)
+Total clusters visible: 1297640
+Average clusters visible: 1089
+Building PAS...
+Average clusters audible: 1191
+visdatasize:361512  compressed from 362064
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56867 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 223 texinfos to 151
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1191 portalclusters
+2697 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1532 visible clusters (0.12%)
+Total clusters visible: 1297800
+Average clusters visible: 1089
+Building PAS...
+Average clusters audible: 1191
+visdatasize:361516  compressed from 362064
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58403 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 162
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1210 portalclusters
+2777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1509 visible clusters (0.11%)
+Total clusters visible: 1330778
+Average clusters visible: 1099
+Building PAS...
+Average clusters audible: 1210
+visdatasize:374299  compressed from 367840
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 20 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58403 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 162
+Reduced 19 texdatas to 19 (484 bytes to 484)
+Writing C:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+Wrote ZIP buffer, estimated size 82132, actual size 81918
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+reading c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.prt
+1210 portalclusters
+2777 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1509 visible clusters (0.11%)
+Total clusters visible: 1330778
+Average clusters visible: 1099
+Building PAS...
+Average clusters audible: 1210
+visdatasize:374299  compressed from 367840
+writing c:\mapsrc\surf_triggered_2\surf_triggered_2_d01.bsp
+0 seconds elapsed
